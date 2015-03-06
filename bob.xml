@@ -1,0 +1,14 @@
+﻿<?xml version='1.0' ?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<mediaDisplay>
+<text offsetXPC=30 offsetYPC=6 widthPC=50 heightPC=6 fontSize=20 backgroundColor=-1:-1:-1 foregroundColor=250:250:250>Bob a Bobek</text>
+</mediaDisplay>
+<channel>
+	<title>Bob a Bobek</title>
+
+
+<item><title>Bob a Bobek: Mexiko</title><link>http://cdn-dispatcher.stream.cz/?id=125920</link><media:thumbnail url="http://i.stream.cz/topstory/1315/171315.jpg" /><enclosure type="video/x-ms-wmv" url="http://cdn-dispatcher.stream.cz/?id=125920"/></item>
+<item><title>Bob a Bobek: Medvěd</title><link>http://cdn-dispatcher.stream.cz/?id=125919</link><media:thumbnail url="http://i.stream.cz/topstory/9729/169729.jpg" /><enclosure type="video/x-ms-wmv" url="http://cdn-dispatcher.stream.cz/?id=125919"/></item>
+<item><title>Bob a Bobek: Nasca</title><link>http://cdn-dispatcher.stream.cz/?id=125915</link><media:thumbnail url="http://i.stream.cz/topstory/8599/168599.jpg" /><enclosure type="video/x-ms-wmv" url="http://cdn-dispatcher.stream.cz/?id=125915"/></item>
+<item><title>Bob a Bobek: Na výletní lodi</title><link>http://cdn-dispatcher.stream.cz/?id=125917</link><media:thumbnail url="http://i.stream.cz/topstory/7476/167476.jpg" /><enclosure type="video/x-ms-wmv" url="http://cdn-dispatcher.stream.cz/?id=125917"/></item>
+</channel>
+</rss>

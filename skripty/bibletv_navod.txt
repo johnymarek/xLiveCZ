@@ -1,0 +1,111 @@
+<?xml version='1.0' ?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+<title>BibleTV archiv</title>
+			<item>
+				<title>Cyklus semináøù o Venkovském životì - Jere Franklin</title>
+				<link>1-video.xml</link>
+				<media:thumbnail url='http://www.bibletv.cz/image-medium-2951.jpg' />
+				<pubDate>Vloženo: </pubDate>
+				<description>Cyklus specifických semináøù o venkovském životì pøibližuje jeden pohledù na témata, která souvisí s biblickými událostmi pøed druhým pøíchodem Pána Ježíše. Jere Franklin, který nás provede jednotlivými semináøi, žije na kanadském venkovì a...</description>
+			</item>
+
+			<item>
+				<title>ASI 2011 - 7. Unijní setkání ve Zlínì</title>
+				<link>2-video-seznam dilu.xml</link>
+				<media:thumbnail url='http://www.bibletv.cz/image-medium-2928.jpg' />
+				<pubDate>Vloženo: </pubDate>
+				<description>Ve dnech 1.-3. prosince 2011 probìhlo ve Zlínì 7. Unijní setkání ASI Èeská a Slovenská republika. Hlavním hostem slavnostního sobotního shromáždìní byl významný adventistický teolog, vedoucí katedry Starého zákona na Andrews university v USA...</description>
+			</item>
+			
+</channel>
+</rss>
+
+
+soubor 1-video.xml bude obsahovat:
+<?xml version='1.0' ?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+<title>BibleTV archiv</title>
+			<item>
+				<title>Cyklus semináøù o Venkovském životì - Jere Franklin,Bible,video-Nízká kvalita</title>
+				<link>http://www.bibletv.cz/projects/cesky-tesin/2012/2012-03-02-franklin-jere-venkovsky-zivot/video/2012-03-02-franklin-jere-venkovsky-zivot-1-cast-navrat-jezise-krista-400x320.mp4</link>
+				<media:thumbnail url='http://www.bibletv.cz/videofile-big-484.jpg' />
+				<pubDate>Nízká kvalita</pubDate>
+				<enclosure type="video/mp4" url="http://www.bibletv.cz/projects/cesky-tesin/2012/2012-03-02-franklin-jere-venkovsky-zivot/video/2012-03-02-franklin-jere-venkovsky-zivot-1-cast-navrat-jezise-krista-400x320.mp4" />
+			</item>
+
+			<item>
+				<title>Cyklus semináøù o Venkovském životì - Jere Franklin,Bible,video-Støední kvalita</title>
+				<link>http://www.bibletv.cz/projects/cesky-tesin/2012/2012-03-02-franklin-jere-venkovsky-zivot/video/2012-03-02-franklin-jere-venkovsky-zivot-1-cast-navrat-jezise-krista-720x576.mp4</link>
+				<media:thumbnail url='http://www.bibletv.cz/videofile-big-484.jpg' />
+				<pubDate>Støední kvalita</pubDate>
+				<enclosure type="video/mp4" url="http://www.bibletv.cz/projects/cesky-tesin/2012/2012-03-02-franklin-jere-venkovsky-zivot/video/2012-03-02-franklin-jere-venkovsky-zivot-1-cast-navrat-jezise-krista-720x576.mp4" />
+			</item>
+
+			<item>
+				<title>Cyklus semináøù o Venkovském životì - Jere Franklin,Bible,video-Nejvyšší kvalita</title>
+				<link>http://www.bibletv.cz/projects/cesky-tesin/2012/2012-03-02-franklin-jere-venkovsky-zivot/video/2012-03-02-franklin-jere-venkovsky-zivot-1-cast-navrat-jezise-krista-720x576-high.mp4</link>
+				<media:thumbnail url='http://www.bibletv.cz/videofile-big-484.jpg' />
+				<pubDate>Nejvyšší kvalita</pubDate>
+				<enclosure type="video/mp4" url="http://www.bibletv.cz/projects/cesky-tesin/2012/2012-03-02-franklin-jere-venkovsky-zivot/video/2012-03-02-franklin-jere-venkovsky-zivot-1-cast-navrat-jezise-krista-720x576-high.mp4" />
+			</item>
+</channel>
+</rss>
+
+soubor 2-video-seznam dilu.xml bude obsahovat:
+<?xml version='1.0' ?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+<title>BibleTV archiv</title>
+			<item>
+				<title>ASI 2011 - 7. Unijní setkání ve Zlínì(1/2)</title>
+				<link>1-video-1.2.xml</link>
+				<media:thumbnail url='http://www.bibletv.cz/image-medium-2951.jpg' />
+				<pubDate>Vloženo: </pubDate>
+				<description>Cyklus specifických semináøù o venkovském životì pøibližuje jeden pohledù na témata, která souvisí s biblickými událostmi pøed druhým pøíchodem Pána Ježíše. Jere Franklin, který nás provede jednotlivými semináøi, žije na kanadském venkovì a...</description>
+			</item>
+
+			<item>
+				<title>ASI 2011 - 7. Unijní setkání ve Zlínì(2/2)</title>
+				<link>1-video-2.2.xml</link>
+				<media:thumbnail url='http://www.bibletv.cz/image-medium-2928.jpg' />
+				<pubDate>Vloženo: </pubDate>
+				<description>Ve dnech 1.-3. prosince 2011 probìhlo ve Zlínì 7. Unijní setkání ASI Èeská a Slovenská republika. Hlavním hostem slavnostního sobotního shromáždìní byl významný adventistický teolog, vedoucí katedry Starého zákona na Andrews university v USA...</description>
+			</item>
+			
+</channel>
+</rss>
+
+soubor 1-video-1.2.xml bude obsahovat:
+<?xml version='1.0' ?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+<title>BibleTV archiv</title>
+			<item>
+				<title>Cyklus semináøù o Venkovském životì - Jere Franklin,Bible,video-Nízká kvalita</title>
+				<link>http://www.bibletv.cz/projects/cesky-tesin/2012/2012-03-02-franklin-jere-venkovsky-zivot/video/2012-03-02-franklin-jere-venkovsky-zivot-1-cast-navrat-jezise-krista-400x320.mp4</link>
+				<media:thumbnail url='http://www.bibletv.cz/videofile-big-484.jpg' />
+				<pubDate>Nízká kvalita</pubDate>
+				<enclosure type="video/mp4" url="http://www.bibletv.cz/projects/cesky-tesin/2012/2012-03-02-franklin-jere-venkovsky-zivot/video/2012-03-02-franklin-jere-venkovsky-zivot-1-cast-navrat-jezise-krista-400x320.mp4" />
+			</item>
+
+			<item>
+				<title>Cyklus semináøù o Venkovském životì - Jere Franklin,Bible,video-Støední kvalita</title>
+				<link>http://www.bibletv.cz/projects/cesky-tesin/2012/2012-03-02-franklin-jere-venkovsky-zivot/video/2012-03-02-franklin-jere-venkovsky-zivot-1-cast-navrat-jezise-krista-720x576.mp4</link>
+				<media:thumbnail url='http://www.bibletv.cz/videofile-big-484.jpg' />
+				<pubDate>Støední kvalita</pubDate>
+				<enclosure type="video/mp4" url="http://www.bibletv.cz/projects/cesky-tesin/2012/2012-03-02-franklin-jere-venkovsky-zivot/video/2012-03-02-franklin-jere-venkovsky-zivot-1-cast-navrat-jezise-krista-720x576.mp4" />
+			</item>
+
+			<item>
+				<title>Cyklus semináøù o Venkovském životì - Jere Franklin,Bible,video-Nejvyšší kvalita</title>
+				<link>http://www.bibletv.cz/projects/cesky-tesin/2012/2012-03-02-franklin-jere-venkovsky-zivot/video/2012-03-02-franklin-jere-venkovsky-zivot-1-cast-navrat-jezise-krista-720x576-high.mp4</link>
+				<media:thumbnail url='http://www.bibletv.cz/videofile-big-484.jpg' />
+				<pubDate>Nejvyšší kvalita</pubDate>
+				<enclosure type="video/mp4" url="http://www.bibletv.cz/projects/cesky-tesin/2012/2012-03-02-franklin-jere-venkovsky-zivot/video/2012-03-02-franklin-jere-venkovsky-zivot-1-cast-navrat-jezise-krista-720x576-high.mp4" />
+			</item>
+</channel>
+</rss>
+
+a tak dale

@@ -1,0 +1,700 @@
+﻿<?xml version="1.0"?>
+<!--Xtreamer Community 2011 - killerman-->
+<rss version="2.0" xmlns:media="http://purl.org/dc/elements/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<mediaDisplay name="threePartsView" sideColorLeft="0:0:0" sideLeftWidthPC="5" sideRightWidthPC="10" sideColorRight="0:0:0" headerXPC="2" headerYPC="3" headerWidthPC="95"
+	itemImageXPC="27" itemImageYPC="18" itemXPC="41" itemYPC="18" itemWidthPC="40"	menuXPC="5"	menuWidthPC="15" capXPC="82" capYPC="17" capHeightPC="10" headerCapXPC="90"
+	headerCapYPC="10" headerCapWidthPC="0" showDefaultInfo="yes" backgroundColor="0:0:0" itemBackgroundColor="0:0:0" infoYPC="85" popupXPC="7" popupWidthPC="15"
+	popupBorderColor="0:0:0" idleImageXPC="45" idleImageYPC="42" idleImageWidthPC="10" idleImageHeightPC="16" liding="yes" showHeader="yes" forceFocusOnItem="yes"
+	focusBorderColor="255:0:0" menuBorderColor="255:0:0" itemBorderColor="255:0:0" itemCornerRounding="yes" />
+<channel>
+	<title>CZ/SK Radio</title>
+
+
+<item>
+<title>Fusion Radio</title>
+<link>http://launch.fusionradio.fm:8004</link>
+<media:thumbnail url="http://load.fusionradio.fm/assets/menu/fusionmenu_b0.gif" />
+<enclosure type="audio/mpga" url="http://launch.fusionradio.fm:8004/>
+</item>
+	
+
+<item>
+<title>Back to 90s</title>
+<link>http://streaming207.radionomy.com/Back-to-the-90-s</link>
+<media:thumbnail url="http://2.bp.blogspot.com/_BQaigIqXhFs/TObbPuS78CI/AAAAAAAABD0/uDxi7BUA8H0/s1600/back_to_the_90s.jpg" />
+<enclosure type="audio/mpga" url="http://streaming207.radionomy.com/Back-to-the-90-s"/>
+</item>
+
+<item>
+<title>NRK Jazz</title>
+<link>http://lyd.nrk.no/nrk_radio_jazz_mp3_h</link>
+<media:thumbnail url="http://ua.212img.com/system/radios/000/000/431/images/thumb/7767.png?1288184813" />
+<enclosure type="audio/mpga" url="http://lyd.nrk.no/nrk_radio_jazz_mp3_h"/>
+</item>
+
+<item>
+<title>Linn Radio</title>
+<link>http://89.16.185.174:8003/stream</link>
+<media:thumbnail url="http://blogs.linn.co.uk/giladt/2010/04/12/Linn%20Radio.gif" />
+<enclosure type="audio/mpga" url="http://89.16.185.174:8003/stream"/>
+</item>
+
+<item>
+<title>Linn Jazz</title>
+<link>http://89.16.185.174:8000/stream</link>
+<media:thumbnail url="http://d1i6vahw24eb07.cloudfront.net/s122120s.gif" />
+<enclosure type="audio/mpga" url="http://89.16.185.174:8000/stream"/>
+</item>
+
+<item>
+<title>Linn Classical</title>
+<link>http://89.16.185.174:8004/stream</link>
+<media:thumbnail url="http://d1i6vahw24eb07.cloudfront.net/s122116.gif" />
+<enclosure type="audio/mpga" url="http://89.16.185.174:8004/stream"/>
+</item>
+
+<item>
+<link>http://205.188.215.228:8006/</link>
+<title>Ambient - Digitally Imported</title>
+<media:thumbnail url="http://www.luismolinari.com/wp-content/uploads/2012/08/DigitallyImportedRadio.png" />
+</item>
+
+<item>
+<link>http://205.188.215.225:8002/</link>
+<title>Breaks - Digitally Imported</title>
+<media:thumbnail url="http://www.luismolinari.com/wp-content/uploads/2012/08/DigitallyImportedRadio.png" />
+</item>
+
+<item>
+<link>http://205.188.215.225:8004/</link>
+<title>Classic Electronica - Digitally Imported</title>
+<media:thumbnail url="http://www.luismolinari.com/wp-content/uploads/2012/08/DigitallyImportedRadio.png" />
+</item>
+
+<item>
+<link>http://80.94.69.106:6324/</link>
+<title>Classic EuroDance - Digitally Imported</title>
+<media:thumbnail url="http://www.luismolinari.com/wp-content/uploads/2012/08/DigitallyImportedRadio.png" />
+</item>
+
+<item>
+<link>http://72.26.204.28:6364/</link>
+<title>Classic Trance - Digitally Imported</title>
+<media:thumbnail url="http://www.luismolinari.com/wp-content/uploads/2012/08/DigitallyImportedRadio.png" />
+</item>
+
+<item>
+<link>http://88.191.122.12:6454/</link>
+<title>Classic Vocal Trance - Digitally Imported</title>
+<media:thumbnail url="http://www.luismolinari.com/wp-content/uploads/2012/08/DigitallyImportedRadio.png" />
+</item>
+
+<item>
+<link>http://u17b.di.fm:80/di_clubdubstep</link>
+<title>Club Dubstep - Digitally Imported</title>
+<media:thumbnail url="http://www.luismolinari.com/wp-content/uploads/2012/08/DigitallyImportedRadio.png" />
+</item>
+
+<item>
+<link>http://80.94.69.106:6344/</link>
+<title>Club Sounds - Digitally Imported</title>
+<media:thumbnail url="http://www.luismolinari.com/wp-content/uploads/2012/08/DigitallyImportedRadio.png" />
+</item>
+
+<item>
+<link>http://u16b.di.fm:80/di_cosmicdowntempo</link>
+<title>Cosmic Downtempo - Digitally Imported</title>
+<media:thumbnail url="http://www.luismolinari.com/wp-content/uploads/2012/08/DigitallyImportedRadio.png" />
+</item>
+
+<item>
+<link>http://u12b.di.fm:80/di_deephouse</link>
+<title>Deep House - Digitally Imported</title>
+<media:thumbnail url="http://www.luismolinari.com/wp-content/uploads/2012/08/DigitallyImportedRadio.png" />
+</item>
+
+<item>
+<link>http://u16b.di.fm:80/di_deepnudisco</link>
+<title>Deep Nu-Disco - Digitally Imported</title>
+<media:thumbnail url="http://www.luismolinari.com/wp-content/uploads/2012/08/DigitallyImportedRadio.png" />
+</item>
+
+<item>
+<link>http://80.94.69.106:6384/</link>
+<title>Disco House - Digitally Imported</title>
+<media:thumbnail url="http://www.luismolinari.com/wp-content/uploads/2012/08/DigitallyImportedRadio.png" />
+</item>
+
+<item>
+<link>http://80.94.69.106:6104/</link>
+<title>DJ Mixes - Digitally Imported</title>
+<media:thumbnail url="http://www.luismolinari.com/wp-content/uploads/2012/08/DigitallyImportedRadio.png" />
+</item>
+
+<item>
+<link>http://207.200.96.229:8030/</link>
+<title>Drum 'n Bass - Digitally Imported</title>
+<media:thumbnail url="http://www.luismolinari.com/wp-content/uploads/2012/08/DigitallyImportedRadio.png" />
+</item>
+
+<item>
+<link>http://80.94.69.106:6374/</link>
+<title>Dubstep - Digitally Imported</title>
+<media:thumbnail url="http://www.luismolinari.com/wp-content/uploads/2012/08/DigitallyImportedRadio.png" />
+</item>
+
+<item>
+<link>http://scfire-mtc-aa02.stream.aol.com:80/stream/1025</link>
+<title>Electro House - Digitally Imported</title>
+<media:thumbnail url="http://www.luismolinari.com/wp-content/uploads/2012/08/DigitallyImportedRadio.png" />
+</item>
+
+<item>
+<link>http://u12b.di.fm:80/di_epictrance</link>
+<title>Epic Trance - Digitally Imported</title>
+<media:thumbnail url="http://www.luismolinari.com/wp-content/uploads/2012/08/DigitallyImportedRadio.png" />
+</item>
+
+<item>
+<link>http://scfire-dtc-aa01.stream.aol.com:80/stream/1024</link>
+<title>EuroDance - Digitally Imported</title>
+<media:thumbnail url="http://www.luismolinari.com/wp-content/uploads/2012/08/DigitallyImportedRadio.png" />
+</item>
+
+<item>
+<link>http://80.94.69.106:6284/</link>
+<title>Funky House - Digitally Imported</title>
+<media:thumbnail url="http://www.luismolinari.com/wp-content/uploads/2012/08/DigitallyImportedRadio.png" />
+</item>
+
+<item>
+<link>http://80.94.69.106:6234/</link>
+<title>Future Synthpop - Digitally Imported</title>
+<media:thumbnail url="http://www.luismolinari.com/wp-content/uploads/2012/08/DigitallyImportedRadio.png" />
+</item>
+
+<item>
+<link>http://scfire-ntc-aa02.stream.aol.com:80/stream/1008</link>
+<title>Goa-Psy Trance - Digitally Imported</title>
+<media:thumbnail url="http://www.luismolinari.com/wp-content/uploads/2012/08/DigitallyImportedRadio.png" />
+</item>
+
+<item>
+<link>http://u17b.di.fm:80/di_handsup</link>
+<title>Hands Up - Digitally Imported</title>
+<media:thumbnail url="http://www.luismolinari.com/wp-content/uploads/2012/08/DigitallyImportedRadio.png" />
+</item>
+
+<item>
+<link>http://80.94.69.106:6074/</link>
+<title>Hardcore - Digitally Imported</title>
+<media:thumbnail url="http://www.luismolinari.com/wp-content/uploads/2012/08/DigitallyImportedRadio.png" />
+</item>
+
+<item>
+<link>http://80.94.69.106:6014/</link>
+<title>Hard Dance - Digitally Imported</title>
+<media:thumbnail url="http://www.luismolinari.com/wp-content/uploads/2012/08/DigitallyImportedRadio.png" />
+</item>
+
+<item>
+<link>http://u17.di.fm:80/di_hardstyle</link>
+<title>Hardstyle - Digitally Imported</title>
+<media:thumbnail url="http://www.luismolinari.com/wp-content/uploads/2012/08/DigitallyImportedRadio.png" />
+</item>
+
+<item>
+<link>http://scfire-dtc-aa02.stream.aol.com:80/stream/1007</link>
+<title>House - Digitally Imported</title>
+<media:thumbnail url="http://www.luismolinari.com/wp-content/uploads/2012/08/DigitallyImportedRadio.png" />
+</item>
+
+<item>
+<link>http://72.26.204.28:6334/</link>
+<title>Chillout Dreams - Digitally Imported</title>
+<media:thumbnail url="http://www.luismolinari.com/wp-content/uploads/2012/08/DigitallyImportedRadio.png" />
+</item>
+
+<item>
+<link>http://scfire-ntc-aa02.stream.aol.com:80/stream/1035</link>
+<title>Chillout - Digitally Imported</title>
+<media:thumbnail url="http://www.luismolinari.com/wp-content/uploads/2012/08/DigitallyImportedRadio.png" />
+</item>
+
+<item>
+<link>http://80.94.69.106:6414/</link>
+<title>Chiptunes - Digitally Imported</title>
+<media:thumbnail url="http://www.luismolinari.com/wp-content/uploads/2012/08/DigitallyImportedRadio.png" />
+</item>
+
+<item>
+<link>http://80.94.69.106:6424/</link>
+<title>Latin House - Digitally Imported</title>
+<media:thumbnail url="http://www.luismolinari.com/wp-content/uploads/2012/08/DigitallyImportedRadio.png" />
+</item>
+
+<item>
+<link>http://80.94.69.106:6404/</link>
+<title>Liquid DnB - Digitally Imported</title>
+<media:thumbnail url="http://www.luismolinari.com/wp-content/uploads/2012/08/DigitallyImportedRadio.png" />
+</item>
+
+<item>
+<link>http://scfire-dtc-aa01.stream.aol.com:80/stream/1009</link>
+<title>Lounge - Digitally Imported</title>
+<media:thumbnail url="http://www.luismolinari.com/wp-content/uploads/2012/08/DigitallyImportedRadio.png" />
+</item>
+
+<item>
+<link>http://94.23.3.33:4100/</link>
+<title>Minimal - Digitally Imported</title>
+<media:thumbnail url="http://www.luismolinari.com/wp-content/uploads/2012/08/DigitallyImportedRadio.png" />
+</item>
+
+<item>
+<link>http://u12.di.fm:80/di_oldschoolacid</link>
+<title>Oldschool Acid - Digitally Imported</title>
+<media:thumbnail url="http://www.luismolinari.com/wp-content/uploads/2012/08/DigitallyImportedRadio.png" />
+</item>
+
+<item>
+<link>http://scfire-ntc-aa05.stream.aol.com:80/stream/1026</link>
+<title>Progressive - Digitally Imported</title>
+<media:thumbnail url="http://www.luismolinari.com/wp-content/uploads/2012/08/DigitallyImportedRadio.png" />
+</item>
+
+<item>
+<link>http://u17b.di.fm:80/di_progressivepsy</link>
+<title>Progressive Psy - Digitally Imported</title>
+<media:thumbnail url="http://www.luismolinari.com/wp-content/uploads/2012/08/DigitallyImportedRadio.png" />
+</item>
+
+<item>
+<link>http://u16.di.fm:80/di_psychill</link>
+<title>PsyChill - Digitally Imported</title>
+<media:thumbnail url="http://www.luismolinari.com/wp-content/uploads/2012/08/DigitallyImportedRadio.png" />
+</item>
+
+<item>
+<link>http://205.188.215.232:8016/</link>
+<title>Soulful House - Digitally Imported</title>
+<media:thumbnail url="http://www.luismolinari.com/wp-content/uploads/2012/08/DigitallyImportedRadio.png" />
+</item>
+
+<item>
+<link>http://80.94.69.106:6304/</link>
+<title>Space Dreams - Digitally Imported</title>
+<media:thumbnail url="http://www.luismolinari.com/wp-content/uploads/2012/08/DigitallyImportedRadio.png" />
+</item>
+
+<item>
+<link>http://u16b.di.fm:80/di_techhouse</link>
+<title>Tech House - Digitally Imported</title>
+<media:thumbnail url="http://www.luismolinari.com/wp-content/uploads/2012/08/DigitallyImportedRadio.png" />
+</item>
+
+<item>
+<link>http://u17.di.fm:80/di_techno</link>
+<title>Techno - Digitally Imported</title>
+<media:thumbnail url="http://www.luismolinari.com/wp-content/uploads/2012/08/DigitallyImportedRadio.png" />
+</item>
+
+<item>
+<link>http://scfire-dtc-aa03.stream.aol.com:80/stream/1003</link>
+<title>Trance - Digitally Imported</title>
+<media:thumbnail url="http://www.luismolinari.com/wp-content/uploads/2012/08/DigitallyImportedRadio.png" />
+</item>
+
+<item>
+<link>http://80.94.69.106:6274/</link>
+<title>Tribal House - Digitally Imported</title>
+<media:thumbnail url="http://www.luismolinari.com/wp-content/uploads/2012/08/DigitallyImportedRadio.png" />
+</item>
+
+<item>
+<link>http://u17.di.fm:80/di_ukgarage</link>
+<title>UK Garage - Digitally Imported</title>
+<media:thumbnail url="http://www.luismolinari.com/wp-content/uploads/2012/08/DigitallyImportedRadio.png" />
+</item>
+
+<item>
+<link>http://u17b.di.fm:80/di_vocalchillout</link>
+<title>Vocal Chillout - Digitally Imported</title>
+<media:thumbnail url="http://www.luismolinari.com/wp-content/uploads/2012/08/DigitallyImportedRadio.png" />
+</item>
+
+<item>
+<link>http://scfire-mtc-aa01.stream.aol.com:80/stream/1065</link>
+<title>Vocal Trance - Digitally Imported</title>
+<media:thumbnail url="http://www.luismolinari.com/wp-content/uploads/2012/08/DigitallyImportedRadio.png" />
+</item>
+
+<item>
+<title>ProFM Black</title>
+<media:thumbnail url="http://2.bp.blogspot.com/-QbnNyqFdJXY/Ti_GBJc9cvI/AAAAAAAAHLw/tPXGYdJ1eIo/s1600/pro_fm.jpg" />
+<link>http://stream.profm.ro:8052/black.mp3</link>
+</item>
+<item>
+<title>ProFM Gold </title>
+<media:thumbnail url="http://2.bp.blogspot.com/-QbnNyqFdJXY/Ti_GBJc9cvI/AAAAAAAAHLw/tPXGYdJ1eIo/s1600/pro_fm.jpg" />
+<link>http://stream.profm.ro:8112/gold.mp3</link>
+</item>
+<item>
+<title>ProFM 80's</title>
+<media:thumbnail url="http://2.bp.blogspot.com/-QbnNyqFdJXY/Ti_GBJc9cvI/AAAAAAAAHLw/tPXGYdJ1eIo/s1600/pro_fm.jpg" />
+<link>http://stream.profm.ro:8122/80s.mp3</link>
+</item>
+<item>
+<title>ProFM Love</title>
+<media:thumbnail url="http://2.bp.blogspot.com/-QbnNyqFdJXY/Ti_GBJc9cvI/AAAAAAAAHLw/tPXGYdJ1eIo/s1600/pro_fm.jpg" />
+<link>http://stream.profm.ro:8072/love.mp3</link>
+</item>
+<item>
+<title>ProFM Rock</title>
+<media:thumbnail url="http://2.bp.blogspot.com/-QbnNyqFdJXY/Ti_GBJc9cvI/AAAAAAAAHLw/tPXGYdJ1eIo/s1600/pro_fm.jpg" />
+<link>http://stream.profm.ro:8142/rock.mp3</link>
+</item>
+<item>
+<title>ProFM Latino</title>
+<media:thumbnail url="http://2.bp.blogspot.com/-QbnNyqFdJXY/Ti_GBJc9cvI/AAAAAAAAHLw/tPXGYdJ1eIo/s1600/pro_fm.jpg" />
+<link>http://stream.profm.ro:8162/latino.mp3</link>
+</item>
+<item>
+<title>ProFM Oldies</title>
+<media:thumbnail url="http://2.bp.blogspot.com/-QbnNyqFdJXY/Ti_GBJc9cvI/AAAAAAAAHLw/tPXGYdJ1eIo/s1600/pro_fm.jpg" />
+<link>http://stream.profm.ro:8222/oldies.mp3</link>
+</item>
+<item>
+<title>ProFM RO</title>
+<media:thumbnail url="http://2.bp.blogspot.com/-QbnNyqFdJXY/Ti_GBJc9cvI/AAAAAAAAHLw/tPXGYdJ1eIo/s1600/pro_fm.jpg" />
+<link>http://stream.profm.ro:8242/profmro.mp3</link>
+</item>
+<item>
+<title>ProFM HOUSE</title>
+<media:thumbnail url="http://2.bp.blogspot.com/-QbnNyqFdJXY/Ti_GBJc9cvI/AAAAAAAAHLw/tPXGYdJ1eIo/s1600/pro_fm.jpg" />
+<link>http://stream.profm.ro:8312/house.mp3</link>
+</item>
+<item>
+<title>ProFM Campus Bucuresti</title>
+<media:thumbnail url="http://2.bp.blogspot.com/-QbnNyqFdJXY/Ti_GBJc9cvI/AAAAAAAAHLw/tPXGYdJ1eIo/s1600/pro_fm.jpg" />
+<link>http://stream.profm.ro:8410/campus.mp3</link>
+</item>
+<item>
+<title>ProFM</title>
+<media:thumbnail url="http://2.bp.blogspot.com/-QbnNyqFdJXY/Ti_GBJc9cvI/AAAAAAAAHLw/tPXGYdJ1eIo/s1600/pro_fm.jpg" />
+<link>http://stream.profm.ro:8012/profm.mp3</link>
+</item>
+<item>
+<title>ProFM Slagar </title>
+<media:thumbnail url="http://2.bp.blogspot.com/-QbnNyqFdJXY/Ti_GBJc9cvI/AAAAAAAAHLw/tPXGYdJ1eIo/s1600/pro_fm.jpg" />
+<link>http://stream.profm.ro:8420/profmslagar.mp3</link>
+</item>
+<item>
+<title>ProFM Romania, Gen </title>
+<media:thumbnail url="http://2.bp.blogspot.com/-QbnNyqFdJXY/Ti_GBJc9cvI/AAAAAAAAHLw/tPXGYdJ1eIo/s1600/pro_fm.jpg" />
+<link>http://stream.profm.ro:8332/profmrogen.mp3</link>
+</item>
+<item>
+<title>ProFM Alternative </title>
+<media:thumbnail url="http://2.bp.blogspot.com/-QbnNyqFdJXY/Ti_GBJc9cvI/AAAAAAAAHLw/tPXGYdJ1eIo/s1600/pro_fm.jpg" />
+<link>http://stream.profm.ro:8042/alternativ.mp3</link>
+</item>
+<item>
+<title>ProFM Classic</title>
+<media:thumbnail url="http://2.bp.blogspot.com/-QbnNyqFdJXY/Ti_GBJc9cvI/AAAAAAAAHLw/tPXGYdJ1eIo/s1600/pro_fm.jpg" />
+<link>http://stream.profm.ro:8082/clasic.mp3</link>
+</item>
+<item>
+<title>ProFM Reggae</title>
+<media:thumbnail url="http://2.bp.blogspot.com/-QbnNyqFdJXY/Ti_GBJc9cvI/AAAAAAAAHLw/tPXGYdJ1eIo/s1600/pro_fm.jpg" />
+<link>http://stream.profm.ro:8062/reggae.mp3</link>
+</item>
+<item>
+<title>ProFM 90's </title>
+<media:thumbnail url="http://2.bp.blogspot.com/-QbnNyqFdJXY/Ti_GBJc9cvI/AAAAAAAAHLw/tPXGYdJ1eIo/s1600/pro_fm.jpg" />
+<link>http://stream.profm.ro:8092/90s.mp3</link>
+</item>
+<item>
+<title>ProFM Sofa </title>
+<media:thumbnail url="http://2.bp.blogspot.com/-QbnNyqFdJXY/Ti_GBJc9cvI/AAAAAAAAHLw/tPXGYdJ1eIo/s1600/pro_fm.jpg" />
+<link>http://stream.profm.ro:8132/sofa.mp3</link>
+</item>
+<item>
+<title>ProFM Rhythm&Blues</title>
+<media:thumbnail url="http://2.bp.blogspot.com/-QbnNyqFdJXY/Ti_GBJc9cvI/AAAAAAAAHLw/tPXGYdJ1eIo/s1600/pro_fm.jpg" />
+<link>http://stream.profm.ro:8152/blues.mp3</link>
+</item>
+<item>
+<title>ProFM Jazz </title>
+<media:thumbnail url="http://2.bp.blogspot.com/-QbnNyqFdJXY/Ti_GBJc9cvI/AAAAAAAAHLw/tPXGYdJ1eIo/s1600/pro_fm.jpg" />
+<link>http://stream.profm.ro:8212/jazz.mp3</link>
+</item>
+<item>
+<title>ProFM ChillOut </title>
+<media:thumbnail url="http://2.bp.blogspot.com/-QbnNyqFdJXY/Ti_GBJc9cvI/AAAAAAAAHLw/tPXGYdJ1eIo/s1600/pro_fm.jpg" />
+<link>http://stream.profm.ro:8232/chillout.mp3</link>
+</item>
+<item>
+<title>ProFM HOT </title>
+<media:thumbnail url="http://2.bp.blogspot.com/-QbnNyqFdJXY/Ti_GBJc9cvI/AAAAAAAAHLw/tPXGYdJ1eIo/s1600/pro_fm.jpg" />
+<link>http://stream.profm.ro:8252/hot.mp3</link>
+</item>
+<item>
+<title>ProFM Classic Rock</title>
+<media:thumbnail url="http://2.bp.blogspot.com/-QbnNyqFdJXY/Ti_GBJc9cvI/AAAAAAAAHLw/tPXGYdJ1eIo/s1600/pro_fm.jpg" />
+<link>http://stream.profm.ro:8322/classicrock.mp3</link>
+</item>
+<item>
+<title>ProFM Kids </title>
+<media:thumbnail url="http://2.bp.blogspot.com/-QbnNyqFdJXY/Ti_GBJc9cvI/AAAAAAAAHLw/tPXGYdJ1eIo/s1600/pro_fm.jpg" />
+<link>http://stream.profm.ro:8262/kids.mp3</link>
+</item>
+<item>
+<title>ProFM Dance</title>
+<media:thumbnail url="http://2.bp.blogspot.com/-QbnNyqFdJXY/Ti_GBJc9cvI/AAAAAAAAHLw/tPXGYdJ1eIo/s1600/pro_fm.jpg" />
+<link>http://stream.profm.ro:8032/dancefm.mp3</link>
+</item>
+<item>
+<title>ProFM Guns'n'Roses</title>
+<media:thumbnail url="http://2.bp.blogspot.com/-QbnNyqFdJXY/Ti_GBJc9cvI/AAAAAAAAHLw/tPXGYdJ1eIo/s1600/pro_fm.jpg" />
+<link>http://stream.profm.ro:8349/profmdiverse.mp3</link>
+</item>
+
+
+<item>
+<title>Absolute TOP 40 Radio</title>
+<link>http://tai.egihosting.com:80/top40-128k-mp3</link>
+<image>http://exolot.net/wp-content/uploads/radio-1-fm.png</image>
+</item>
+
+<item>
+<title>Adore Vocal Jazz</title>
+<link>http://tai-03.egihosting.com/adorejazz-128k-mp3</link>
+<image>http://exolot.net/wp-content/uploads/radio-1-fm.png</image>
+</item>
+
+<item>
+<title>Always-Christmas</title>
+<link>http://tai.egihosting.com:80/christmas-128k-mp3</link>
+<image>http://exolot.net/wp-content/uploads/radio-1-fm.png</image>
+</item>
+
+<item>
+<title>Chillout Lounge</title>
+<link>http://tai.egihosting.com:80/chillout-128k-mp3</link>
+<image>http://exolot.net/wp-content/uploads/radio-1-fm.png</image>
+</item>
+
+<item>
+<title>Eternal Praise & Wors</title>
+<link>http://tai-03.egihosting.com/fuego-128k-mp3</link>
+<image>http://exolot.net/wp-content/uploads/radio-1-fm.png</image>
+</item>
+
+<item>
+<title>Absolute 70's Pop</title>
+<link>http://tai.egihosting.com:80/70s-128k-mp3</link>
+<image>http://exolot.net/wp-content/uploads/radio-1-fm.png</image>
+</item>
+
+<item>
+<title>Absolute 90's</title>
+<link>http://tai.egihosting.com:80/90s-128k-mp3</link>
+<image>http://exolot.net/wp-content/uploads/radio-1-fm.png</image>
+</item>
+
+<item>
+<title>Absolute Blues Hits</title>
+<link>http://tai-02.egihosting.com/blues-128k-mp3</link>
+<image>http://exolot.net/wp-content/uploads/radio-1-fm.png</image>
+</item>
+
+<item>
+<title>Absolute ReggaeTrade</title>
+<link>http://tai-02.egihosting.com/reggae-128k-mp3</link>
+<image>http://exolot.net/wp-content/uploads/radio-1-fm.png</image>
+</item>
+
+<item>
+<title>Absolute Trance (Euro)</title>
+<link>http://tai-02.egihosting.com:80/trance-128k-mp3</link>
+<image>http://exolot.net/wp-content/uploads/radio-1-fm.png</image>
+</item>
+
+<item>
+<title>Absolutely Country Hits</title>
+<link>http://tai.egihosting.com:80/countryhits-128k-mp3</link>
+<image>http://exolot.net/wp-content/uploads/radio-1-fm.png</image>
+</item>
+
+<item>
+<title>Acappella</title>
+<link>http://tai-03.egihosting.com/acappella-128k-mp3</link>
+<image>http://exolot.net/wp-content/uploads/radio-1-fm.png</image>
+</item>
+
+<item>
+<title>Adult Urban Hits Choice</title>
+<link>http://tai-02.egihosting.com/urbanad-128k-mp3</link>
+<image>http://exolot.net/wp-content/uploads/radio-1-fm.png</image>
+</item>
+
+<item>
+<title>Afterbeat Electronica</title>
+<link>http://tai.egihosting.com:80/afterbeat-128k-mp3</link>
+<image>http://exolot.net/wp-content/uploads/radio-1-fm.png</image>
+</item>
+
+<item>
+<title>All Euro 80's</title>
+<link>http://tai.egihosting.com:80/euro80s-128k-mp3</link>
+<image>http://exolot.net/wp-content/uploads/radio-1-fm.png</image>
+</item>
+
+<item>
+<title>All Flashback Alternative</title>
+<link>http://tai-03.egihosting.com/flashalt-128k-mp3</link>
+<image>http://exolot.net/wp-content/uploads/radio-1-fm.png</image>
+</item>
+
+<item>
+<title>All Otto Baroque Musick</title>
+<link>http://tai-02.egihosting.com:80/obaroque-128k-mp3</link>
+<image>http://exolot.net/wp-content/uploads/radio-1-fm.png</image>
+</item>
+
+<item>
+<title>All Otto Classical Music</title>
+<link>http://tai-03.egihosting.com/oclassical-128k-mp3</link>
+<image>http://exolot.net/wp-content/uploads/radio-1-fm.png</image>
+</item>
+
+<item>
+<title>All Otto Opera Music</title>
+<link>http://tai-03.egihosting.com/oopera-128k-mp3</link>
+<image>http://exolot.net/wp-content/uploads/radio-1-fm.png</image>
+</item>
+
+<item>
+<title>All Times & Urban Gospe</title>
+<link>http://tai-03.egihosting.com/urbangos-128k-mp3</link>
+<image>http://exolot.net/wp-content/uploads/radio-1-fm.png</image>
+</item>
+
+<item>
+<title>Alternative Rock X Hits</title>
+<link>http://tai.egihosting.com:80/x-128k-mp3</link>
+<image>http://exolot.net/wp-content/uploads/radio-1-fm.png</image>
+</item>
+
+<item>
+<title>Amsterdam Trance Radio</title>
+<link>http://tai-03.egihosting.com/amstrance-128k-mp3</link>
+<image>http://exolot.net/wp-content/uploads/radio-1-fm.png</image>
+</item>
+
+<item>
+<title>Back To The 50's & 60's</title>
+<link>http://tai-03.egihosting.com/50s60s-128k-mp3</link>
+<image>http://exolot.net/wp-content/uploads/radio-1-fm.png</image>
+</item>
+
+<item>
+<title>Back To The 80s (US)</title>
+<link>http://tai-03.egihosting.com/back280s-128k-mp3</link>
+<image>http://exolot.net/wp-content/uploads/radio-1-fm.png</image>
+</item>
+
+<item>
+<title>Bay Smooth Jazz</title>
+<link>http://tai-02.egihosting.com/smoothjazz-128k-mp3</link>
+<image>http://exolot.net/wp-content/uploads/radio-1-fm.png</image>
+</item>
+
+<item>
+<title>Bombay Beats India</title>
+<link>http://tai-02.egihosting.com:80/bombayb-128k-mp3</link>
+<image>http://exolot.net/wp-content/uploads/radio-1-fm.png</image>
+</item>
+
+<item>
+<title>Channel One Live</title>
+<link>http://tai-03.egihosting.com/onelive-128k-mp3</link>
+<image>http://exolot.net/wp-content/uploads/radio-1-fm.png</image>
+</item>
+
+<item>
+<title>Chinamerica Hit Radio</title>
+<link>http://wm17.1.fm/cahr128k</link>
+<image>http://exolot.net/wp-content/uploads/radio-1-fm.png</image>
+</item>
+
+<item>
+<title>Classic Country</title>
+<link>http://tai-03.egihosting.com/clascountry-128k-mp3</link>
+<image>http://exolot.net/wp-content/uploads/radio-1-fm.png</image>
+</item>
+
+<item>
+<title>Classic Rock Replay</title>
+<link>http://tai-03.egihosting.com/crr-128k-mp3</link>
+<image>http://exolot.net/wp-content/uploads/radio-1-fm.png</image>
+</item>
+
+<item>
+<title>Club 1 Radio</title>
+<link>http://tai.egihosting.com:80/club1-128k-mp3</link>
+<image>http://exolot.net/wp-content/uploads/radio-1-fm.png</image>
+</item>
+
+<item>
+<title>Country One</title>
+<link>http://tai-02.egihosting.com/country-128k-mp3</link>
+<image>http://exolot.net/wp-content/uploads/radio-1-fm.png</image>
+</item>
+
+<item>
+<title>Dance One</title>
+<link>http://tai.egihosting.com:80/dance-128k-mp3</link>
+<image>http://exolot.net/wp-content/uploads/radio-1-fm.png</image>
+</item>
+
+<item>
+<title>Destination: SPA</title>
+<link>http://wm8.1.fm/1fmspa128k</link>
+<image>http://exolot.net/wp-content/uploads/radio-1-fm.png</image>
+</item>
+
+<item>
+<title>Disco Ball 70's-80's</title>
+<link>http://tai-03.egihosting.com/disco-128k-mp3</link>
+<image>http://exolot.net/wp-content/uploads/radio-1-fm.png</image>
+</item>
+
+<item>
+<title>FTV Hit Radio</title>
+<link>http://tai-03.egihosting.com/ftv-128k-mp3</link>
+<image>http://exolot.net/wp-content/uploads/radio-1-fm.png</image>
+</item>
+
+<item>
+<title>GayWay Radio</title>
+<link>http://tai-03.egihosting.com/gayway-128k-mp3</link>
+<image>http://exolot.net/wp-content/uploads/radio-1-fm.png</image>
+</item>
+
+<item>
+<title>High Voltage</title>
+<link>http://tai-02.egihosting.com:80/highvolt-128k-mp3</link>
+<image>http://exolot.net/wp-content/uploads/radio-1-fm.png</image>
+</item>
+
+<item>
+<title>Jamz Hip Hop R&B Hits</title>
+<link>http://tai-03.egihosting.com/jamz-128k-mp3</link>
+<image>http://exolot.net/wp-content/uploads/radio-1-fm.png</image>
+</item>
+
+
+</channel>
+</rss>

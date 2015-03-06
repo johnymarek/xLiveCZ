@@ -1,0 +1,599 @@
+﻿<?xml version="1.0"?>
+<!--Xtreamer Community 2011 - killerman-->
+<rss version="2.0" xmlns:media="http://purl.org/dc/elements/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<mediaDisplay name="threePartsView" sideColorLeft="0:0:0" sideLeftWidthPC="5" sideRightWidthPC="10" sideColorRight="0:0:0" headerXPC="2" headerYPC="3" headerWidthPC="95"
+	itemImageXPC="27" itemImageYPC="18" itemXPC="41" itemYPC="18" itemWidthPC="40"	menuXPC="5"	menuWidthPC="15" capXPC="82" capYPC="17" capHeightPC="10" headerCapXPC="90"
+	headerCapYPC="10" headerCapWidthPC="0" showDefaultInfo="yes" backgroundColor="0:0:0" itemBackgroundColor="0:0:0" infoYPC="85" popupXPC="7" popupWidthPC="15"
+	popupBorderColor="0:0:0" idleImageXPC="45" idleImageYPC="42" idleImageWidthPC="10" idleImageHeightPC="16" liding="yes" showHeader="yes" forceFocusOnItem="yes"
+	focusBorderColor="255:0:0" menuBorderColor="255:0:0" itemBorderColor="255:0:0" itemCornerRounding="yes" />
+<channel>
+	<title>CZ/SK Radio</title>
+
+
+<item>
+<title>Expresradio</title>
+<link>http://127.0.0.1/media/sda1/scripts/xLiveCZ/msdl.sh?type=test&amp;url=mms://netshow4.play.cz/expres128</link>
+<media:thumbnail url="http://www.play.cz/images/radia/expresradio.gif" />
+</item>
+
+<item>
+<title>Expres SK</title>
+<link>http://85.248.7.162:8000/96.mp3</link>
+<media:thumbnail url="http://t1.gstatic.com/images?q=tbn:ANd9GcSFSZhxYbC8lGIiegb4Y7vKWlak1HGzC7LjyTOIP1icBy_iZVfIVA" />
+</item>
+
+<item>
+<title>Rock Rádio Gold</title>
+<link>http://127.0.0.1/media/sda1/scripts/xLiveCZ/msdl.sh?type=test&amp;url=mms://had.limemedia.cz/gold</link>
+<media:thumbnail url="http://static.abradio.cz/data/s/95/logo.gif" />
+</item>
+	
+<item>
+<title>Rock Rádio Šumava</title>
+<link>http://127.0.0.1/media/sda1/scripts/xLiveCZ/msdl.sh?type=test&amp;url=mms://mys.limemedia.cz/sumava128</link>
+<media:thumbnail url="http://krapnik.cz/novinky/img/img_novinka_80004.jpg" />
+</item>
+
+<item>
+<title>FM Plus Rádio</title>
+<link>http://127.0.0.1/media/sda1/scripts/xLiveCZ/msdl.sh?type=test&amp;url=mms://mys.limemedia.cz/fmplus</link>
+<media:thumbnail url="http://static.abradio.cz/data/s/28/logo.jpg" />
+</item>
+
+<item>
+<title>Kiss Proton Rádio</title>
+<link>http://127.0.0.1/media/sda1/scripts/xLiveCZ/msdl.sh?type=test&amp;url=mms://netshow4.play.cz/kissproton128</link>
+<media:thumbnail url="http://giantliga.cz/files-links/kiss-proton-kontura.jpg" />
+</item>
+
+<item>
+<title>Gothic Rádio</title>
+<link>http://www.radio-hosting.net:8000/radiogothicvip192.mp3</link>
+<media:thumbnail url="http://mp3ky.net/img/radia/radio-gothic.gif" />
+<enclosure type="audio/mp3" url="http://www.radio-hosting.net:8000/radiogothicvip192.mp3"/>
+</item>
+
+<item>
+<title>Blaník</title>
+<link>http://127.0.0.1/media/sda1/scripts/xLiveCZ/msdl.sh?type=test&amp;url=mmsh://kocka.limemedia.cz/blanikcz</link>
+<media:thumbnail url="http://www.internetova-radia.eu/img/radio-blanik.jpg" />
+</item>
+
+<item>
+<title>Čas Rock</title>
+<link>http://icecast7.play.cz:8000/casrock128.mp3</link>
+<media:thumbnail url="http://e-radio.cz/images/radio-cas.gif" />
+</item>
+
+<item>
+<title>Čas Brno</title>
+<link>http://127.0.0.1/media/sda1/scripts/xLiveCZ/msdl.sh?type=test&amp;url=mms://netshow.play.cz/CasBrno128</link>
+<media:thumbnail url="http://e-radio.cz/images/radio-cas.gif" />
+</item>
+
+<item>
+<title>Čas Olomouc</title>
+<link>http://icecast7.play.cz:8000/casradioolomouc128.mp3</link>
+<media:thumbnail url="http://e-radio.cz/images/radio-cas.gif" />
+</item>
+
+<item>
+<title>Čas Ostrava</title>
+<link>http://icecast7.play.cz:8000/casradio128.mp3</link>
+<media:thumbnail url="http://e-radio.cz/images/radio-cas.gif" />
+</item>
+
+<item>
+<title>Čas Zlín</title>
+<link>http://icecast7.play.cz:8000/casradiozlin128.mp3</link>
+<media:thumbnail url="http://e-radio.cz/images/radio-cas.gif" />
+</item>
+
+<item>
+<title>ČAS SLOVÁCKO (DYJE)</title>
+<link>http://icecast7.play.cz:8000/dyje128.mp3</link>
+<media:thumbnail url="http://e-radio.cz/images/radio-cas.gif" />
+</item>
+
+<item>
+<title>Černá Hora</title>
+<link>http://icecast6.play.cz/cernahora128.mp3</link>
+<media:thumbnail url="http://www.radiotv.cz/wp-content/uploads/2010/04/cernahora.jpg" />
+</item>
+
+<item>
+<title>Československá diskotéka</title>
+<link>http://ice-01.lagardere.cz/web-csdisko</link>
+<media:thumbnail url="http://profile.ak.fbcdn.net/hprofile-ak-snc4/41567_153009408067294_3299_n.jpg" />
+</item>
+
+<item>
+<title>Český rozhlas 1 - Radiožurnál</title>
+<link>http://icecast7.play.cz:8000/cro1-128.mp3</link>
+<media:thumbnail url="http://www.cestujemesvelvyslanci.cz/wp-content/uploads/2011/03/radio-Cesko-e1301309581135.jpg" />
+</item>
+
+<item>
+<title>Český rozhlas 2 - Praha</title>
+<link>http://icecast7.play.cz:8000/cro2-128.mp3</link>
+<media:thumbnail url="http://www.cestujemesvelvyslanci.cz/wp-content/uploads/2011/03/radio-Cesko-e1301309581135.jpg" />
+</item>
+
+<item>
+<title>Český rozhlas 3 - Vltava</title>
+<link>http://icecast5.play.cz:8000/cro3-128.mp3</link>
+<media:thumbnail url="http://www.cestujemesvelvyslanci.cz/wp-content/uploads/2011/03/radio-Cesko-e1301309581135.jpg" />
+</item>
+
+<item>
+<title>Český rozhlas 4 - RadioWave</title>
+<link>http://icecast5.play.cz:8000/crowave-128.mp3</link>
+<media:thumbnail url="http://www.cestujemesvelvyslanci.cz/wp-content/uploads/2011/03/radio-Cesko-e1301309581135.jpg" />
+</item>
+
+<item>
+<title>Český rozhlas 6</title>
+<link>http://icecast1.play.cz:8000/cro6-128.mp3</link>
+<media:thumbnail url="http://www.cestujemesvelvyslanci.cz/wp-content/uploads/2011/03/radio-Cesko-e1301309581135.jpg" />
+</item>
+
+<item>
+<title>Český rozhlas - Radio Česko</title>
+<link>http://icecast5.play.cz:8000/crocesko-128.mp3</link>
+<media:thumbnail url="http://www.cestujemesvelvyslanci.cz/wp-content/uploads/2011/03/radio-Cesko-e1301309581135.jpg" />
+</item>
+
+<item>
+<title>Český rozhlas - Leonardo</title>
+<link>http://icecast5.play.cz:8000/croleonardo-128.mp3</link>
+<media:thumbnail url="http://www.cestujemesvelvyslanci.cz/wp-content/uploads/2011/03/radio-Cesko-e1301309581135.jpg" />
+</item>
+
+<item>
+<title>Český rozhlas - D-dur</title>
+<link>http://icecast5.play.cz:8000/croddur-128.mp3</link>
+<media:thumbnail url="http://www.cestujemesvelvyslanci.cz/wp-content/uploads/2011/03/radio-Cesko-e1301309581135.jpg" />
+</item>
+
+<item>
+<title>Český rozhlas - Radio Praha</title>
+<link>http://127.0.0.1/media/sda1/scripts/xLiveCZ/msdl.sh?type=test&amp;url=mms://netshow4.play.cz/cro7-128</link>
+<media:thumbnail url="http://www.cestujemesvelvyslanci.cz/wp-content/uploads/2011/03/radio-Cesko-e1301309581135.jpg" />
+</item>
+
+<item>
+<title>Clubbeat Radio</title>
+<link>http://mp3stream4.abradio.cz:8000/clubbeat128.mp3</link>
+<media:thumbnail url="http://www.abradio.cz/data/s/5/logo.gif" />
+</item>
+
+<item>
+<title>Country Radio</title>
+<link>http://icecast2.play.cz:8000/country64.mp3</link>
+<media:thumbnail url="http://www.countryradio.cz/img/logo/logo2.png" />
+</item>
+
+<item>
+<title>CRo Brno</title>
+<link>http://icecast2.play.cz:8000/crobrno128.mp3</link>
+<media:thumbnail url="http://www.cestujemesvelvyslanci.cz/wp-content/uploads/2011/03/radio-Cesko-e1301309581135.jpg" />
+</item>
+
+<item>
+<title>CRo České Budějovice</title>
+<link>http://icecast2.play.cz:8000/crocb128.mp3</link>
+<media:thumbnail url="http://www.cestujemesvelvyslanci.cz/wp-content/uploads/2011/03/radio-Cesko-e1301309581135.jpg" />
+</item>
+
+<item>
+<title>CRo Hradec Králové</title>
+<link>http://icecast2.play.cz:8000/crohk128.mp3</link>
+<media:thumbnail url="http://www.cestujemesvelvyslanci.cz/wp-content/uploads/2011/03/radio-Cesko-e1301309581135.jpg" />
+</item>
+
+<item>
+<title>CRo Olomouc</title>
+<link>http://icecast2.play.cz:8000/crool128.mp3</link>
+<media:thumbnail url="http://www.cestujemesvelvyslanci.cz/wp-content/uploads/2011/03/radio-Cesko-e1301309581135.jpg" />
+</item>
+
+<item>
+<title>CRo Ostrava</title>
+<link>http://icecast2.play.cz:8000/croov128.mp3</link>
+<media:thumbnail url="http://www.cestujemesvelvyslanci.cz/wp-content/uploads/2011/03/radio-Cesko-e1301309581135.jpg" />
+</item>
+
+<item>
+<title>CRo Pardubice</title>
+<link>http://icecast2.play.cz:8000/cropardubice128.mp3</link>
+<media:thumbnail url="http://www.cestujemesvelvyslanci.cz/wp-content/uploads/2011/03/radio-Cesko-e1301309581135.jpg" />
+</item>
+
+<item>
+<title>CRo Plzeň</title>
+<link>http://icecast2.play.cz:8000/croplzen128.mp3</link>
+<media:thumbnail url="http://www.cestujemesvelvyslanci.cz/wp-content/uploads/2011/03/radio-Cesko-e1301309581135.jpg" />
+</item>
+
+<item>
+<title>CRo Karlovy Vary</title>
+<link>http://icecast2.play.cz:8000/crokv128.mp3</link>
+<media:thumbnail url="http://www.cestujemesvelvyslanci.cz/wp-content/uploads/2011/03/radio-Cesko-e1301309581135.jpg" />
+</item>
+
+<item>
+<title>CRo Regina</title>
+<link>http://netshow.play.cz:8000/croregina128.mp3</link>
+<media:thumbnail url="http://www.cestujemesvelvyslanci.cz/wp-content/uploads/2011/03/radio-Cesko-e1301309581135.jpg" />
+</item>
+
+<item>
+<title>CRo Region, Středočeský kraj</title>
+<link>http://icecast2.play.cz:8000/croregion128.mp3</link>
+<media:thumbnail url="http://www.cestujemesvelvyslanci.cz/wp-content/uploads/2011/03/radio-Cesko-e1301309581135.jpg" />
+</item>
+
+<item>
+<title>CRo Sever</title>
+<link>http://icecast2.play.cz:8000/crosever128.mp3</link>
+<media:thumbnail url="http://www.cestujemesvelvyslanci.cz/wp-content/uploads/2011/03/radio-Cesko-e1301309581135.jpg" />
+</item>
+
+<item>
+<title>CRo Vysočina</title>
+<link>http://127.0.0.1/media/sda1/scripts/xLiveCZ/msdl.sh?type=test&amp;url=mms://netshow4.play.cz/croregionvysocina64</link>
+<media:thumbnail url="http://www.cestujemesvelvyslanci.cz/wp-content/uploads/2011/03/radio-Cesko-e1301309581135.jpg" />
+</item>
+
+<item>
+<title>CRo Liberec</title>
+<link>http://icecast2.play.cz:8000/croliberec128.mp3</link>
+<media:thumbnail url="http://www.cestujemesvelvyslanci.cz/wp-content/uploads/2011/03/radio-Cesko-e1301309581135.jpg" />
+</item>
+
+<item>
+<title>Dance radio</title>
+<link>http://62.44.1.26:8000/dance-radio192.mp3</link>
+<media:thumbnail url="http://o-radio.cz/images/radia/dance.gif" />
+</item>
+
+<item>
+<title>Evropa 2</title>
+<link>http://icecast3.play.cz/evropa2-128.mp3</link>
+<media:thumbnail url="http://www.tv-programy.eu/images/radio-evropa2.gif" />
+</item>
+
+
+<item>
+<title>Evropa 2 - Heavy</title>
+<link>http://ice-01.lagardere.cz/web-e2-heavy</link>
+<media:thumbnail url="http://www.tv-programy.eu/images/radio-evropa2.gif" />
+</item>
+
+<item>
+<title>Evropa 2 - Hot</title>
+<link>http://ice-01.lagardere.cz/web-e2-hot</link>
+<media:thumbnail url="http://www.tv-programy.eu/images/radio-evropa2.gif" />
+</item>
+
+<item>
+<title>Evropa 2 - Lowider</title>
+<link>http://ice-01.lagardere.cz/web-e2-lowrider</link>
+<media:thumbnail url="http://www.tv-programy.eu/images/radio-evropa2.gif" />
+</item>
+
+<item>
+<title>Evropa 2 - Movin</title>
+<link>http://81.91.84.138:8040/</link>
+<media:thumbnail url="http://www.tv-programy.eu/images/radio-evropa2.gif" />
+</item>
+
+<item>
+<title>Evropa 2 - Retro</title>
+<link>http://ice-01.lagardere.cz/web-e2-retro</link>
+<media:thumbnail url="http://www.tv-programy.eu/images/radio-evropa2.gif" />
+</item>
+
+<item>
+<title>Evropa 2 - Top40</title>
+<link>http://ice-01.lagardere.cz/web-e2-top40</link>
+<media:thumbnail url="http://www.tv-programy.eu/images/radio-evropa2.gif" />
+</item>
+
+<item>
+<title>Free Radio</title>
+<link>http://127.0.0.1/media/sda1/scripts/xLiveCZ/msdl.sh?type=test&amp;url=mms://netshow4.play.cz/Freeradio128</link>
+<media:thumbnail url="http://www.freeradio.cz/img/jobs/jobs-pozice-obchodni-zastupce-free-radia.jpg" />
+</item>
+
+<item>
+<title>Frekvence 1</title>
+<link>http://icecast4.play.cz/frekvence1-128.mp3</link>
+<media:thumbnail url="http://www.rrm.cz/img/content/loga-mala/frekvence_1.gif" />
+</item>
+
+<item>
+<title>Frekvence 1 - Bozske radio</title>
+<link>http://ice-01.lagardere.cz/web-f1-bozskeradio</link>
+<media:thumbnail url="http://www.rrm.cz/img/content/loga-mala/frekvence_1.gif" />
+</item>
+
+<item>
+<title>Frekvence 1 - CS Hity</title>
+<link>http://ice-01.lagardere.cz/web-f1-cshity</link>
+<media:thumbnail url="http://www.rrm.cz/img/content/loga-mala/frekvence_1.gif" />
+</item>
+
+<item>
+<title>Frekvence 1 - Legendy</title>
+<link>http://ice-01.lagardere.cz/web-f1-legendy</link>
+<media:thumbnail url="http://www.rrm.cz/img/content/loga-mala/frekvence_1.gif" />
+</item>
+
+<item>
+<title>Frekvence 1 - Retro Disco</title>
+<link>http://ice-01.lagardere.cz/web-f1-retro</link>
+<media:thumbnail url="http://www.rrm.cz/img/content/loga-mala/frekvence_1.gif" />
+</item>
+
+<item>
+<title>Frekvence 1 - Romantika</title>
+<link>http://ice-01.lagardere.cz/web-f1-romantika</link>
+<media:thumbnail url="http://www.rrm.cz/img/content/loga-mala/frekvence_1.gif" />
+</item>
+
+<item>
+<title>FUN Radio Live</title>
+<link>http://stream.funradio.sk:8000/fun128.mp3</link>
+<media:thumbnail url="http://www.funradio.sk/files/upload/live.png" />
+</item>
+
+<item>
+<title>Helax</title>
+<link>http://127.0.0.1/media/sda1/scripts/xLiveCZ/msdl.sh?type=test&amp;url=mms://pes.limemedia.cz/helax</link>
+<media:thumbnail url="http://radioradio7.com/radio-images/Czech-Republic-Radio-Helax-937-FM.gif" />
+</item>
+
+<item>
+<title>Hey Ostrava</title>
+<link>http://127.0.0.1/media/sda1/scripts/xLiveCZ/msdl.sh?type=test&amp;url=mms://netshow5.play.cz/hey-ostrava128</link>
+<media:thumbnail url="http://www.super-radio.cz/radio/logo/hey_ostrava.gif" />
+</item>
+
+<item>
+<title>Hitradio Vysocina</title>
+<link>http://netshow.play.cz:8000/vysocina32aac</link>
+<media:thumbnail url="http://iphone.play.cz/service/images/hitradio-vysocina.png" />
+</item>
+
+<item>
+<title>Impuls</title>
+<link>http://icecast5.play.cz/impuls128.mp3</link>
+<media:thumbnail url="http://www.rrm.cz/file/u/impuls-raaaadio-logo-nahled.jpg" />
+</item>
+
+<item>
+<title>Kiss Morava</title>
+<link>http://127.0.0.1/media/sda1/scripts/xLiveCZ/msdl.sh?type=test&amp;url=mms://netshow4.play.cz/kissmoravaov128</link>
+<media:thumbnail url="http://www.igreat.eu/wp-content/uploads/kiss.gif" />
+</item>
+
+<item>
+<title>Kiss Hady</title>
+<link>http://127.0.0.1/media/sda1/scripts/xLiveCZ/msdl.sh?type=test&amp;url=mms://netshow4.play.cz/kisshady128</link>
+<media:thumbnail url="http://www.alexxdj.com/wp-content/uploads/Kiss-Hady-300x288.jpg" />
+</item>
+
+<item>
+<title>Krokodyl</title>
+<link>http://127.0.0.1/media/sda1/scripts/xLiveCZ/msdl.sh?type=test&amp;url=mms://netshow5.play.cz/krokodyl128</link>
+<media:thumbnail url="http://www.radiotv.cz/wp-content/uploads/2009/07/rk_b_4.jpg" />
+</item>
+
+<item>
+<title>Orion</title>
+<link>http://127.0.0.1/media/sda1/scripts/xLiveCZ/msdl.sh?type=test&amp;url=mms://mys.limemedia.cz/orion192</link>
+<media:thumbnail url="http://profile.ak.fbcdn.net/hprofile-ak-snc4/50264_302585336579_54304_n.jpg" />
+</item>
+
+<item>
+<title>Petrov</title>
+<link>http://127.0.0.1/media/sda1/scripts/xLiveCZ/msdl.sh?type=test&amp;url=mms://netshow4.play.cz/radiopetrov128</link>
+<media:thumbnail url="http://www.ladim.cz/wp-content/uploads/2009/01/radio-petrov.jpg" />
+</item>
+
+<item>
+<title>4U Rádio</title>
+<link>http://62.44.1.26:8000/Radio4U</link>
+<media:thumbnail url="http://www.radiotv.cz.adela.abradio.cz/wp-content/uploads/2009/04/radio4u.jpg" />
+</item>
+
+<item>
+<title>Beat Rádio</title>
+<link>http://netshow.play.cz:8000/beat64.mp3</link>
+<media:thumbnail url="http://www.autoshowpraha.cz/316/images/Radio%20BEAT%20nove%20logo%202%20150.jpg" />
+</item>
+
+<item>
+<title>Best Rádio</title>
+<link>http://31.31.77.222:8000/</link>
+<media:thumbnail url="http://www.bestfm.sk/img/logo/logo_red.png" />
+</item>
+
+<item>
+<title>Best of Rock Rádio</title>
+<link>http://mp3stream4.abradio.cz:8000/bestofrock128.mp3</link>
+<media:thumbnail url="http://www.abradio.cz/data/s/40/logo.gif" />
+</item>
+
+<item>
+<title>Brod Rock Rádio</title>
+<link>http://netshow.play.cz:8000/eFFect64.mp3</link>
+<media:thumbnail url="http://iphone.play.cz/service/images/radio-brod.png" />
+</item>
+
+<item>
+<title>Click and Country Rádio</title>
+<link>http://mp3stream4.abradio.cz:8000/clickandcountry128.mp3</link>
+<media:thumbnail url="http://www.petrkocman.cz/images/radiocc.jpg" />
+</item>
+
+<item>
+<title>Contact Liberec Rádio</title>
+<link>http://netshow.play.cz:8000/rcl32aac</link>
+<media:thumbnail url="http://www.datamedia.cz/run.php?page=image&ld=1&ID_SUB=AC00000122" />
+</item>
+
+
+<item>
+<title>Domino Rádio</title>
+<link>http://mp3stream4.abradio.cz:8000/domino128.mp3</link>
+<media:thumbnail url="http://www.adam.cz/img/200909070344_radio%20domino.jpg" />
+</item>
+
+<item>
+<title>FM Rádio</title>
+<link>http://live.slovakradio.sk:8000/FM_256.mp3</link>
+<media:thumbnail url="http://technabob.com/blog/wp-content/uploads/2006/10/dolmen_fm_radio.jpg" />
+</item>
+
+<item>
+<title>Humor Rádio</title>
+<link>http://mp3stream4.abradio.cz:8000/humor128.mp3</link>
+<media:thumbnail url="http://www.abradio.cz/data/s/18/logo.gif" />
+</item>
+
+<item>
+<title>Povídka Rádio</title>
+<link>http://127.0.0.1/media/sda1/scripts/xLiveCZ/msdl.sh?type=test&amp;url=mms://had.limemedia.cz/povidka</link>
+<media:thumbnail url="http://www.abradio.cz/data/s/168/logo.gif" />
+</item>
+
+<item>
+<title>Chillout Rádio</title>
+<link>http://mp3stream4.abradio.cz:8000/chillout128.mp3</link>
+<media:thumbnail url="http://ursispaltenstein.ch/blog/images/uploads_img/chillout_radio.jpg" />
+</item>
+
+<item>
+<title>Jih Rádio</title>
+<link>http://netshow.play.cz:8000/jih32aac</link>
+<media:thumbnail url="http://www.velke-pavlovice.cz/data/xsl/img/Radio-Jih.jpg" />
+</item>
+
+<item>
+<title>Madonna Rádio</title>
+<link>http://mp3stream4.abradio.cz:8000/madonna128.mp3</link>
+<media:thumbnail url="http://www.radiomadonna.ro/wp-content/themes/madonna/images/radio-madonna-logo3.png" />
+</item>
+
+<item>
+<title>Oldies Rock Rádio</title>
+<link>http://mp3stream4.abradio.cz:8000/oldiesrock128.mp3</link>
+<media:thumbnail url="http://69.comuf.com/web_images/onair_.gif" />
+</item>
+
+<item>
+<title>Orlik Rádio</title>
+<link>http://netshow.play.cz:8000/RadioOrlik64.mp3</link>
+<media:thumbnail url="http://www.ladim.cz/wp-content/uploads/2009/01/radio-orlik.jpg" />
+</item>
+
+<item>
+<title>Pohadka Rádio</title>
+<link>http://mp3stream4.abradio.cz:8000/pohadka128.mp3</link>
+<media:thumbnail url="http://www.abradio.cz/data/s/46/logo.jpg" />
+</item>
+
+<item>
+<title>Samson FM Rádio</title>
+<link>http://netshow.play.cz:8000/samsonfm32aac</link>
+<media:thumbnail url="http://www.radiotv.cz/wp-content/uploads/2009/10/radiosamson.jpg" />
+</item>
+
+<item>
+<title>Sity Rádio</title>
+<link>http://217.73.17.42:8000/hq.mp3</link>
+<media:thumbnail url="http://www.radia.sk/_loga/sity.gif" />
+</item>
+
+<item>
+<title>Slovensko Rádio</title>
+<link>http://live.slovakradio.sk:8000/Slovensko_128.mp3</link>
+<media:thumbnail url="http://www.studentregata.cz/uploads/pics/logo-radio-slovensko_02.jpg" />
+</item>
+
+<item>
+<title>Spin Rádio</title>
+<link>http://netshow.play.cz:8000/spin128aac</link>
+<media:thumbnail url="http://www.hip-hop.cz/images/news/pic_small_1_258.jpg" />
+</item>
+
+<item>
+<title>Viva Rádio</title>
+<link>http://85.159.106.242:8000/vivastream64.aac</link>
+<media:thumbnail url="http://nd01.jxs.cz/262/928/910c11bcac_16472762_o2.gif" />
+</item>
+
+<item>
+<title>Rádio 1</title>
+<link>http://netshow.play.cz:8000/radio1.mp3</link>
+<media:thumbnail url="http://downtempo.cz/wp-content/uploads/2010/06/RADIO1_logo.jpg" />
+</item>
+
+<item>
+<title>Rockmax Rádio</title>
+<link>http://127.0.0.1/media/sda1/scripts/xLiveCZ/msdl.sh?type=test&amp;url=mms://netshow4.play.cz/rockmax128</link>
+<media:thumbnail url="http://www.tiger-club.cz/en/picture/sponzori/radio-rock-max.jpg" />
+</item>
+
+<item>
+<title>Rockmax HARD Rádio</title>
+<link>http://212.111.2.151:8000/rm_hard_256.mp3</link>
+<media:thumbnail url="http://www.tiger-club.cz/en/picture/sponzori/radio-rock-max.jpg" />
+</item>
+
+<item>
+<title>Rockmax Oldies Rádio</title>
+<link>http://212.111.2.151:8000/rm_old_256.mp3</link>
+<media:thumbnail url="http://www.tiger-club.cz/en/picture/sponzori/radio-rock-max.jpg" />
+</item>
+
+<item>
+<title>RockZone Rádio</title>
+<link>http://netshow.play.cz:8000/rockzone32aac</link>
+<media:thumbnail url="http://4.bp.blogspot.com/_tJkO4QGFzeE/S184U3inC_I/AAAAAAAAAFk/ZZE-A_gXq1Q/S220/Rock-Zone-Logo%5B1%5D.gif" />
+</item>
+
+<item>
+<title>Sound Wave</title>
+<link>http://81.91.84.138:8040/</link>
+<media:thumbnail url="http://www.predvanocnirockfest.cz/images/radio_sound_wave_130.png" />
+</item>
+
+<item>
+<title>Trampská Osada</title>
+<link>http://ice-01.lagardere.cz/web-osada</link>
+<media:thumbnail url="http://cukrarnaflorida.vyrobce.cz/_radio_trampska_osada.gif" />
+</item>
+
+<item>
+<title>Kiss SK</title>
+<link>http://85.159.106.242:8000/kissmp3_128.mp3</link>
+<media:thumbnail url="http://radia.czin.eu/i/kiss_sk.gif" />
+</item>
+
+<item>
+<title>Ethno Rádio 90.7FM - Praha</title>
+<link>http://127.0.0.1/media/sda1/scripts/xLiveCZ/msdl.sh?type=test&amp;url=mms://netshow5.play.cz/ethno128</link>
+<media:thumbnail url="http://www.ethnoradio.cz/image/ethno_mirror.jpg" />
+</item>
+
+<item>
+<title>Dechovka</title>
+<link>http://icecast5.play.cz:443/dechovka128.mp3</link>
+<media:thumbnail url="http://radioradio7.com/radio-images/Czech-Republic-Radio-Dechovka.gif" />
+</item>
+
+</channel>
+</rss>

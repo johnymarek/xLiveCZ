@@ -1,0 +1,84 @@
+﻿<?xml version="1.0"?>
+<!--Xtreamer Community 2011- Killerman-->
+<rss version="2.0" xmlns:media="http://purl.org/dc/elements/1.1/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+<channel>
+
+<item>
+<title>Extreme.com MTB</title>
+<link>http://zam.opf.slu.cz/baco/skripty/freecaster.php?query=1,mountainbike</link>
+<media:thumbnail url="http://s.aimg.sk/projects/css/aktuality/img/tv_stations/extremesp.gif" />	
+</item>
+<item>
+<title>Extreme.com BMX</title>
+<link>http://zam.opf.slu.cz/baco/skripty/freecaster.php?query=1,bmx</link>
+<media:thumbnail url="http://s.aimg.sk/projects/css/aktuality/img/tv_stations/extremesp.gif" />	
+</item>
+<item>
+<title>Extreme.com Snowboard</title>
+<link>http://zam.opf.slu.cz/baco/skripty/freecaster.php?query=1,snowboard</link>
+<media:thumbnail url="http://s.aimg.sk/projects/css/aktuality/img/tv_stations/extremesp.gif" />	
+</item>
+<item>
+<title>Extreme.com MX</title>
+<link>http://zam.opf.slu.cz/baco/skripty/freecaster.php?query=1,mx</link>
+<media:thumbnail url="http://s.aimg.sk/projects/css/aktuality/img/tv_stations/extremesp.gif" />	
+</item>
+<item>
+<title>Extreme.com Freeski</title>
+<link>http://zam.opf.slu.cz/baco/skripty/freecaster.php?query=1,freeski</link>
+<media:thumbnail url="http://s.aimg.sk/projects/css/aktuality/img/tv_stations/extremesp.gif" />	
+</item>
+<item>
+<title>Extreme.com Kayak</title>
+<link>http://zam.opf.slu.cz/baco/skripty/freecaster.php?query=1,kayak</link>
+<media:thumbnail url="http://s.aimg.sk/projects/css/aktuality/img/tv_stations/extremesp.gif" />	
+</item>
+<item>
+<title>Extreme.com Outdoor</title>
+<link>http://zam.opf.slu.cz/baco/skripty/freecaster.php?query=1,outdoor</link>
+<media:thumbnail url="http://s.aimg.sk/projects/css/aktuality/img/tv_stations/extremesp.gif" />	
+</item>
+<item>
+<title>Extreme.com Skateboard</title>
+<link>http://zam.opf.slu.cz/baco/skripty/freecaster.php?query=1,skate</link>
+<media:thumbnail url="http://s.aimg.sk/projects/css/aktuality/img/tv_stations/extremesp.gif" />	
+</item>
+<item>
+<title>Extreme.com Surf</title>
+<link>http://zam.opf.slu.cz/baco/skripty/freecaster.php?query=1,surf</link>
+<media:thumbnail url="http://s.aimg.sk/projects/css/aktuality/img/tv_stations/extremesp.gif" />	
+</item>
+<item>
+<title>Extreme.com Supermoto</title>
+<link>http://zam.opf.slu.cz/baco/skripty/freecaster.php?query=1,supermoto</link>
+<media:thumbnail url="http://s.aimg.sk/projects/css/aktuality/img/tv_stations/extremesp.gif" />	
+</item>
+<item>
+<title>Extreme.com Wake</title>
+<link>http://zam.opf.slu.cz/baco/skripty/freecaster.php?query=1,wake</link>
+<media:thumbnail url="http://s.aimg.sk/projects/css/aktuality/img/tv_stations/extremesp.gif" />	
+</item>
+<item>
+<title>Extreme.com Autosports</title>
+<link>http://zam.opf.slu.cz/baco/skripty/freecaster.php?query=1,autosports</link>
+<media:thumbnail url="http://s.aimg.sk/projects/css/aktuality/img/tv_stations/extremesp.gif" />	
+</item>
+<item>
+<title>Extreme.com Kitesurf</title>
+<link>http://zam.opf.slu.cz/baco/skripty/freecaster.php?query=1,kite</link>
+<media:thumbnail url="http://s.aimg.sk/projects/css/aktuality/img/tv_stations/extremesp.gif" />	
+</item>
+<item>
+<title>Extreme.com FMX</title>
+<link>http://zam.opf.slu.cz/baco/skripty/freecaster.php?query=1,fmx</link>
+<media:thumbnail url="http://s.aimg.sk/projects/css/aktuality/img/tv_stations/extremesp.gif" />	
+</item>
+<item>
+<title>Extreme.com Windsurf</title>
+<link>http://zam.opf.slu.cz/baco/skripty/freecaster.php?query=1,windsurf</link>
+<media:thumbnail url="http://s.aimg.sk/projects/css/aktuality/img/tv_stations/extremesp.gif" />	
+</item>
+
+</channel>
+</rss>

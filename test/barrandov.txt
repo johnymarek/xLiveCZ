@@ -1,0 +1,1 @@
+-r "rtmpe://93.185.103.10:1935/vodpass" -a "vodpass" -f "WIN 10,3,181,14" -W "http://www.barrandov.tv/flash/unigramPlayer_v1.swf?itemid=65240" -p "http://www.barrandov.tv/58903-profesionalove-epizoda-5" -y "mp4:PROFESIONALOVE_5_500.mp4" -T "#ed%h0#w@1" -o "profesionalove.flv"

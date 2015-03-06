@@ -1,0 +1,16 @@
+﻿<?xml version='1.0' ?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+<channel>
+	<title>Vyhledavani Stream.cz</title>
+	<menu>main menu</menu>
+<mediaDisplay>
+<text offsetXPC=5 offsetYPC=6 widthPC=50 heightPC=6 fontSize=20 backgroundColor=-1:-1:-1 foregroundColor=250:250:250>
+Vyhledavani Stream.cz</text>
+</mediaDisplay>
+<item>
+<title>Vyhledat na Stream.cz</title>
+<link>rss_command://search</link>
+<search url="http://zam.opf.slu.cz/baco/streamspn.php?query=0,%s" />
+</item>
+</channel>
+</rss>
