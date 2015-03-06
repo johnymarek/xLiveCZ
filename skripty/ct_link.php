@@ -50,7 +50,7 @@ if (($html = openpage($URL) ) != FALSE) {
     $link = $t2[0];*/
 	
 	// získání JSON array
-    $t1 = explode('callSOAP(', $html);
+    $t1 = explode('getPlaylistUrl(', $html);
     $t2 = explode(':[{', $t1[1]);
     $soap1 = $t2[0].":[{";
 	
@@ -66,7 +66,7 @@ if (($html = openpage($URL) ) != FALSE) {
 	//print_r($html);
 	
 	IF ($pos === false) {
-	$t1 = explode('callSOAP(', $html);
+	$t1 = explode('getPlaylistUrl(', $html);
     $t2 = explode(');', $t1[1]);
     $soap = $t2[0];
 	}
@@ -83,7 +83,7 @@ if (($html = openpage($URL) ) != FALSE) {
 	
 	if (($html2 = openpage($lnk) ) != FALSE) {
 	
-	 $t1 = explode('callSOAP(', $html2);
+	 $t1 = explode('getPlaylistUrl(', $html2);
     $t2 = explode(');', $t1[1]);
     $soap = $t2[0];
 	}}
@@ -154,7 +154,7 @@ function PostToHost($host, $path, $referer, $data_to_send) {
 // zaslání požadavku serveru a získání odpovědi
 $playlist = PostToHost(
               "www.ceskatelevize.cz",
-              "/ivysilani/ajax/playlistURL.php",
+              "/ivysilani/ajax/get-playlist-url",
               $URL,
               $postdata_str
 );
